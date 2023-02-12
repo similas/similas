@@ -9,11 +9,11 @@ I am an MSc student in AI and Robotics at Shahid Beheshti University and a Machi
 Below is my personal website.
 </h3>
 
-[![open](https://img.shields.io/badge/-amirhallaji.com-green?style=for-the-badge&logo=website)](https://alisadr.me)
+[![open](https://img.shields.io/badge/-alisadr.me-green?style=for-the-badge&logo=website)](https://alisadr.me)
 
 ## Tools & Technlogies
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social](https://cplusplus.com/)
+[![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)](https://cplusplus.com/)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhallaji&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
