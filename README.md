@@ -1,4 +1,4 @@
-# amirhallaji🧢
+# Ali Salimi Sadr🧢
 
 ## About me
 
@@ -13,14 +13,14 @@ Below is my personal website.
 
 ## Tools & Technlogies
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-go-blue?style=for-the-badge&logo=go)](https://cplusplus.com/)
+[![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social](https://cplusplus.com/)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhallaji&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Contact Me
 
-[![](https://img.shields.io/badge/a.hallaji.b@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadr07@gmail.com)
+[![](https://img.shields.io/badge/asadr07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadr07@gmail.com)
 
 
 ## Stats
