@@ -12,7 +12,7 @@ I am an MSc student in AI and Robotics at Shahid Beheshti University and a Machi
 
 ## Tools & Technlogies
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Lightning](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white)
+[![](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white)](https://www.pytorch.org/)
 [![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)](https://cplusplus.com/)
 
 
