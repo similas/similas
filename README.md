@@ -5,8 +5,7 @@
 <h3>
 
 I'm **Ali Salimi Sadr**.
-I am an MSc student in AI and Robotics at Shahid Beheshti University and a Machine Learning Engineer at Azki.com
-Below is my personal website.
+I am an MSc student in AI and Robotics at Shahid Beheshti University and a Machine Learning Engineer at Azki.com.
 </h3>
 
 [![open](https://img.shields.io/badge/-alisadr.me-green?style=for-the-badge&logo=website)](https://alisadr.me)
