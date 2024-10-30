@@ -5,7 +5,7 @@
 <h3>
 
 I'm **Ali Salimi Sadr**.
-I am an MSc student in AI and Robotics at Shahid Beheshti University and a Machine Learning Engineer at Azki.com.
+I am an PhD student working on Applied ML and Adversarial attacks on LLMs at Concordia University / University of Montreal as well as a Machine Learning Engineer at e-SKY Solutions.
 </h3>
 
 [![open](https://img.shields.io/badge/-alisadr.me-green?style=for-the-badge&logo=website)](https://alisadr.me)
